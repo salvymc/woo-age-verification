@@ -9,8 +9,8 @@
  *
  * @wordpress-plugin
  * Plugin Name:   Verifica Età Codice Fiscale
- * Plugin URI:    https://goldjuice.it/
- * Description:   Aggiunge un campo Codice Fiscale al carrello e verifica l'età dell'acquirente
+ * Plugin URI:    https://thestalla.it
+ * Description:   Aggiunge un campo Codice Fiscale al checkout e verifica l'età dell'acquirente
  * Version:       1.0.0
  * Author:        Salvatore Forino
  * Author URI:    https://thestalla.it
